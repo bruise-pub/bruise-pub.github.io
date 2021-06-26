@@ -40,3 +40,5 @@ hr {
   align-items: left;
   justify-content: center;
 }
+
+p {max-width: 600px;}
