@@ -8,6 +8,14 @@ The definitions will mostly be my own basic understanding, perhaps with a reason
 
 # Glossary
 
+### Dither
+
+Dithering is a process that optimises an image, resulting in a smaller file size. It is often used as a low-energy aesthetic, quickly signalling an intent towards lower-weight files. I applied a dither process to the book cover images created for the epubs. The covers are often the largest part of the epub. By dithering the images the epub is kept to a very modest size.
+
+[Dither it](https://ditherit.com/)
+
+[Low Tech Magazine](https://solar.lowtechmagazine.com/)
+
 ### Fediverse
 
 The fediverse is a decentralised platform, facilitating different kinds of communication and interaction around the internet.
