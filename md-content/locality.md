@@ -20,7 +20,7 @@ This text focuses on a couple of young artists trying to navigate relationships,
 
 It imagines different artistic practices and methods of research and production.
 
-## [A Moiré](https://ghostglyph.itch.io/a-moire)]
+## [A Moiré](https://ghostglyph.itch.io/a-moire)
 
 A Moiré is a book about the city and the manipulation of power within that space. 
 
