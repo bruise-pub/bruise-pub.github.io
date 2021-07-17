@@ -4,8 +4,6 @@ In the last year or so I've been taking much more time, enjoyment and care over 
 
 It's probably this kind of reading that most informs the directions I write in, so it feels like it makes sense to share it.
 
-Expecting things to slow down a little bit as I try to keep pace with a group read of Pynchon's Mason & Dixon.
-
 I read on a bunch of different screens, and am actively seeking a open source e-reader solution; like The Open Book Project
 
 (https://github.com/joeycastillo/The-Open-Book)
@@ -16,6 +14,7 @@ I keep my library organised and convert, edit and build books within Calibre.
 
 ### 2021
 
+- Neither Settler Nor Native, Mahmood Mamdani
 - Mason & Dixon, Thomas Pynchon (r/ThomasPynchon group read)
 - The Master's Tools Will Never Dismantle The Master's House, Audre Lorde
 - The Cancer Journals, Audre Lorde
