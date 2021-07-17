@@ -37,6 +37,7 @@ I'm intending to follow these modules starting Autumn 2021.
 I'm open to suggestions of how a cohort can move through this together.  
 Shared etherpad docs?  
 Shared Git repo?  
+A gemini capsule?
 
 Please email me if you'd like to discuss this at ghostglyph@gmail.com
 

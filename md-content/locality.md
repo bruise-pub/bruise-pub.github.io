@@ -10,17 +10,17 @@ None of them have endings that resolve. The characters are left within the space
 
 You can download these books for free via itch.io:
 
-- Monument (II) Folly  
-- A Moiré  
-- Graffiti  
+- [Monument (II) Folly](https://ghostglyph.itch.io/monument-ii-folly)  
+- [A Moiré](https://ghostglyph.itch.io/a-moire)  
+- [Graffiti](https://ghostglyph.itch.io/graffiti)  
 
-## Monument (II) Folly
+## [Monument (II) Folly](https://ghostglyph.itch.io/monument-ii-folly)
 
 This text focuses on a couple of young artists trying to navigate relationships, balancing desire and dreams with a rapidly shifting reality.
 
 It imagines different artistic practices and methods of research and production.
 
-## A Moiré
+## [A Moiré](https://ghostglyph.itch.io/a-moire)]
 
 A Moiré is a book about the city and the manipulation of power within that space. 
 
@@ -28,7 +28,7 @@ The novel centers around a part-time private detective named Morris.
 He is attempting to discover the location of a missing musician.
 As he follows various leads, he meets a range of characters and glimpses the different organisations influencing the city.
 
-## Graffiti
+## [Graffiti](https://ghostglyph.itch.io/graffiti)  
 
 A city in fragments, in the grips of a synthetic drug, Wrench.
 Paranoiac fragments relating to depression, suicide, murder, frequent drug use, homelessness.

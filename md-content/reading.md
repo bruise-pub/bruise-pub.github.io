@@ -4,16 +4,13 @@ In the last year or so I've been taking much more time, enjoyment and care over 
 
 It's probably this kind of reading that most informs the directions I write in, so it feels like it makes sense to share it.
 
-I read on a bunch of different screens, and am actively seeking a open source e-reader solution; like The Open Book Project
+I read on a bunch of different screens, and am actively seeking a open source e-reader solution; like [The Open Book Project](https://github.com/joeycastillo/The-Open-Book).
 
-(https://github.com/joeycastillo/The-Open-Book)
-
-I keep my library organised and convert, edit and build books within Calibre.
-
-(https://calibre-ebook.com/)
+I keep my library organised and convert, edit and build books within [Calibre](https://calibre-ebook.com/).
 
 ### 2021
 
+- Ruha Benjamin, Race After Technology
 - Neither Settler Nor Native, Mahmood Mamdani
 - Mason & Dixon, Thomas Pynchon (r/ThomasPynchon group read)
 - The Master's Tools Will Never Dismantle The Master's House, Audre Lorde

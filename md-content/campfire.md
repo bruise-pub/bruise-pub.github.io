@@ -119,3 +119,5 @@ Writing forward.
 
 The pages updated in pieces offline and uploaded as bulk revisions.  
 Versioning.
+
+Always outside.

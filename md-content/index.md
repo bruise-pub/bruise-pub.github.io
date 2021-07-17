@@ -14,17 +14,17 @@ This iteration of Bruise is publishing a series of texts by Mateus called Locali
 
 The three novels are:
 
-- Monument (II) Folly
+[- Monument (II) Folly
 - A Moiré
-- Graffiti
+- Graffiti](https://bruise.in/locality.html)
 
 The research and documentation of different processes is documented on this page:
 
-- Campfire
+[- Campfire](https://bruise.in/campfire.html)
 
 There is a self-directed TOOC (Tiny Open Online Course) syllabus in parallel with this. I am using this to organise my research and identify future pathways. I invite anyone to use this TOOC as a resource for their own research:
 
-- TOOC
+[- TOOC](https://bruise.in/tooc.html)
 
 ## Aside
 
@@ -62,7 +62,7 @@ The texts have been designed for electronic reading, but printed editions are av
 
 ## Tools
 
-There is a more detailed breakdown of the tools I've used in putting this site and the documents together, on the way. You can find a WIP in the Glossary section. For now, I will simply list most of the different tools used:
+There is a more detailed breakdown of the tools I've used in putting this site and the documents together, on the way. You can find a WIP in the [Glossary](https://bruise.in/glossary.html) section. For now, I will simply list most of the different tools used:
 
 Much of the writing was originally done in Google Docs. Editing the texts for this iteration, I transferred everything into Sublime and reformatted as Markdown. I'm now also using Sublime to write from scratch.
 
@@ -85,32 +85,3 @@ These materials are published under the Anti-Capitalist licence.
 The individual texts are published as CC BY-NC-SA 
 
 They are available for free, but donations are encouraged.
-
-
----
-
-```
-+-+-+-+-+-+-+
-|B|R|U|I|S|E|
-+-+-+-+-+-+-+
-```
-
-v0.9
-
-#### sitemap
-
-##### gg.bruise.in
-
-[index](https://gg.bruise.in)		bio page  
-- [table](https://gg.bruise.in/table.html)	print shop
-
-##### bruise.in
-
-[index](https://bruise.in)						main bruise page  
-- [locality]((https://bruise.in/locality.html))		text summaries  
-- [resources](https://bruise.in/resources.html)			glossary of terms  
-- [TOOC](https://bruise.in/tooc.html)					outlining syllabus ideas  
-- [campfire](https://bruise.in/campfire.html)			loose notes on process  
-- [reading](https://bruise.in/reading.html)		reading list
-
-
