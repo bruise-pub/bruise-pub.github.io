@@ -65,7 +65,7 @@ The texts have been designed for electronic reading, but printed editions are av
 
 ## Tools
 
-There is a more detailed breakdown of the tools I've used in putting this site and the documents together, on the way. You can find a WIP in the [Glossary](https://bruise.in/glossary.html) section. For now, I will simply list most of the different tools used:
+There is a more detailed breakdown of the tools I've used in putting this site and the documents together, on the way. You can find a WIP in the [Resources](https://bruise.in/resources.html) section. For now, I will simply list most of the different tools used:
 
 Much of the writing was originally done in Google Docs. Editing the texts for this iteration, I transferred everything into Sublime and reformatted as Markdown. I'm now also using Sublime to write from scratch.
 
