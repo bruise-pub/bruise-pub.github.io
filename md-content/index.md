@@ -1,3 +1,9 @@
+---
+title: "bruise"
+author: "mateus domingos"
+date: "2021"
+---
+
 # Bruise
 
 ---
@@ -14,20 +20,18 @@ This iteration of Bruise is publishing a series of texts by Mateus called Locali
 
 The three novels are:
 
-- Monument (II) Folly
-- A Moiré
-- Graffiti
-(https://bruise.in/locality.html)
+- [Monument (II) Folly](https://bruise.in/locality.html)
+- [A Moiré](https://bruise.in/locality.html)
+- [Graffiti](https://bruise.in/locality.html)
+
 
 The research and documentation of different processes is documented on this page:
 
-- Campfire
-(https://bruise.in/campfire.html)
+- [Campfire](https://bruise.in/campfire.html)
 
 There is a self-directed TOOC (Tiny Open Online Course) syllabus in parallel with this. I am using this to organise my research and identify future pathways. I invite anyone to use this TOOC as a resource for their own research:
 
-- TOOC
-(https://bruise.in/tooc.html)
+- [TOOC](https://bruise.in/tooc.html)
 
 ## Aside
 
