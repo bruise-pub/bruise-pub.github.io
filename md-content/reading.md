@@ -10,6 +10,7 @@ I keep my library organised and convert, edit and build books within [Calibre](h
 
 ### 2021
 
+- Isaac Asimov, I, Robot
 - Ruha Benjamin, Race After Technology
 - Neither Settler Nor Native, Mahmood Mamdani
 - Mason & Dixon, Thomas Pynchon (r/ThomasPynchon group read)
