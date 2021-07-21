@@ -1,3 +1,10 @@
+
+```
++-+-+-+-+-+-+
+|B|R|U|I|S|E|
++-+-+-+-+-+-+
+```
+
 # Resources
 
 This space is a built with a mix of tools, processes and techniques. The way data is handled and manipulated is often different to the default modes of operation encouraged by the devices and software we might commonly use.

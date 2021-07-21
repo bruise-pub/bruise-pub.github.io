@@ -1,3 +1,10 @@
+
+```
++-+-+-+-+-+-+
+|B|R|U|I|S|E|
++-+-+-+-+-+-+
+```
+
 # Locality
 
 A loose trilogy of novels taking place in fictional apparitions of Leicester, UK and Nice, France.

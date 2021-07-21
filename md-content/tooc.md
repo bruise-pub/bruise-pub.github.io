@@ -1,3 +1,10 @@
+
+```
++-+-+-+-+-+-+
+|B|R|U|I|S|E|
++-+-+-+-+-+-+
+```
+
 # TOOC
 
 A Tiny Open Online Course built to explore digital and experimental publishing practices and theory.

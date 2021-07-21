@@ -1,3 +1,10 @@
+
+```
++-+-+-+-+-+-+
+|B|R|U|I|S|E|
++-+-+-+-+-+-+
+```
+
 # campfire
 
 This terminology of campfire, is informed by the discussion around the digital garden.

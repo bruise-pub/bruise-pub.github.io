@@ -1,3 +1,10 @@
+
+```
++-+-+-+-+-+-+
+|B|R|U|I|S|E|
++-+-+-+-+-+-+
+```
+
 # sources
 
 In the last year or so I've been taking much more time, enjoyment and care over reading than I had for a long time.
