@@ -90,6 +90,24 @@ This means that when writing Markdown for different places, such as Github, Glit
 
 [Markdown Guide](https://www.markdownguide.org/)
 
+### Static Site Generator
+
+Static sites hold a website as a finished set of files.
+Much of the web doesn't really work like this any more, as sites are built around interaction and the delivery of lots of different types of data.
+
+If you go to a library and take out a book, that's the static site.
+If you go to a library and then assemble a book from pages scattered all over the library as well as writing a few pages, that's a non-static site.
+(Flexing both the metaphor and terms there)
+
+This approach should increase the speed at which a website can load. It is also interesting as an approach to the web that reduces energy use and improves accessibility.
+
+There are many static site generators available.
+Glitch recently included one (11ty) in their starter pages, so that might be a good place to play with one.
+
+You might also be able to build your own, like [ovrs](https://github.com/ovrs/aplos).
+I'm working very slowly towards that.
+Since starting this site I've switched from using a website md-html converter, to controlling that step myself using Pandoc.
+
 ### Terminal (CLI)
 
 Terminal is the Mac app that allows you to use the Command Line Interface. This is the little box that looks like most of the screens on Mr. Robot.
@@ -112,3 +130,4 @@ Pandoc is a powerful command line tool, that allows you to convert documents int
 In my process it provided a simple way of getting the individual sections of the texts compiled together as a well-formatted epub.
 
 [Pandoc](https://pandoc.org/epub.html)
+

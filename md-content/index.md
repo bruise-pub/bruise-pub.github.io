@@ -1,9 +1,3 @@
----
-title: "bruise"
-author: "mateus domingos"
-date: "2021"
----
-
 # Bruise
 
 ---
@@ -75,7 +69,7 @@ Much of the writing was originally done in Google Docs. Editing the texts for th
 
 Sublime appears to play nicely with Github, which I appreciate.
 
-I haven't found a static site generator that I get on with, yet, so I'm hand-cranking the .md through https://markdowntohtml.com/ and sliding that into my html.
+I haven't found a static site generator that I get on with, yet, so I'm hand-cranking the .md through Pandoc - aiming to automate this process a little more each time. More about this in the Resources page.
 
 I'm currently publishing through Github Pages. There are alternate versions on Gemini and Hyper.
 

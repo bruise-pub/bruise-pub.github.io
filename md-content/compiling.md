@@ -7,6 +7,18 @@
 
 - that is then pasted into the  body section (much cleaner than web gen)
 
+- sitemap (inc. version)
+
+- index
+- campfire
+- locality
+- reading
+- resources
+
+
+
+
+
 
 
 -- issues (including YAML metadata to include title, css and enclose in body tags)

@@ -6,7 +6,7 @@
 +-+-+-+-+-+-+
 ```
 
-v1.1
+v1.2
 
 #### sitemap
 
@@ -23,3 +23,4 @@ v1.1
 
 [index](https://gg.bruise.in)		bio page  
 - [table](https://gg.bruise.in/table.html)	print shop
+
