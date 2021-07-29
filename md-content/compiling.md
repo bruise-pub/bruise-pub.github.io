@@ -36,3 +36,18 @@ example YAML metadata:
 > author: "mateus domingos"
 > date: "2021"
 > ---
+
+
+# compiling epubs
+
+i.e.
+
+pandoc -o a-moire.epub title.txt \        
+00-title.md \
+01-section-1.md \
+02-section-2.md \
+03-section-3.md \
+04-section-4.md \
+05-publishers-note.md
+
+
