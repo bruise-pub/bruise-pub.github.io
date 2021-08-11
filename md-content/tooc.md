@@ -70,9 +70,13 @@ focusing on open presses
 
 [oapen](https://oapen.org/)
 
+Staying With The Trouble, Donna J Haraway
+
 The Weird and the Eerie, Ghosts of my life, Mark Fisher
 
 Reading Writing Interfaces, Lori Emerson
+
+Design Justice, Sasha Costanza-Chock
 
 [bad vibes](https://www.dekersaint.com/badvibesclubpodcast)
 

@@ -128,3 +128,8 @@ The pages updated in pieces offline and uploaded as bulk revisions.
 Versioning.
 
 Always outside.
+
+A notebook discarded.
+Pages yellowed in the sunlight.
+
+
