@@ -42,7 +42,7 @@ Paranoiac fragments relating to depression, suicide, murder, frequent drug use, 
 
 A Portuguese man named Elvis, works as a car park attendant. He is accused of stealing a bicycle and loses his job. Whilst trying to find the bicycle he meets different people who occupy the city, including a ghost.
 
-### Print edition
+## Print edition
 
 A print edition of each of the novels is available. Please email me for details.
 
@@ -50,7 +50,11 @@ A print edition of each of the novels is available. Please email me for details.
 ghostglyph@gmail.com
 ```
 
+## More info
 
+I have started writing a couple of blog posts about the texts over on Gemini. You should be able to find them [here](https://ghostglyph.flounder.online/gemlog/).
+
+I'll move this across to here at some point.
 
 
 

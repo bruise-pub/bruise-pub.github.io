@@ -132,4 +132,8 @@ Always outside.
 A notebook discarded.
 Pages yellowed in the sunlight.
 
+Thinking about what's next.  
+Thinking about sticking to the plan.
+
+
 

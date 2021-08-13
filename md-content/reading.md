@@ -17,8 +17,11 @@ I keep my library organised and convert, edit and build books within [Calibre](h
 
 ### 2021
 
-- Isaac Asimov, I, Robot
-- Ruha Benjamin, Race After Technology
+- Staying With The Trouble, Donna J. Haraway (rr)
+- Always Coming Home, Ursula K Le Guin
+- A River Dies of Thirst, Mahmoud Darwish
+- I, Robot, Isaac Asimov
+- Race After Technology, Ruha Benjamin
 - Neither Settler Nor Native, Mahmood Mamdani
 - Mason & Dixon, Thomas Pynchon (r/ThomasPynchon group read)
 - The Master's Tools Will Never Dismantle The Master's House, Audre Lorde

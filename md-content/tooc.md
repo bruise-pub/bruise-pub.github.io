@@ -91,3 +91,5 @@ lurk
 [turing complete user](http://contemporary-home-computing.org/turing-complete-user/)
 
 [radical openness](https://a-nourishing-network.radical-openness.org/measure-or-measure-up-preparing-for-unpopulated-futures.html)
+
+[permacomputing](http://viznut.fi/texts-en/permacomputing_update_2021.html)

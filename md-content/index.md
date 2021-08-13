@@ -92,4 +92,4 @@ These materials are published under the Anti-Capitalist licence.
 
 The individual texts are published as CC BY-NC-SA 
 
-They are available for free, but donations are encouraged.
+They are available for free, but I am immensely thankful for any donations. Occassionally I will attach a price to the texts to try and fundraise during an Itch sale day.
