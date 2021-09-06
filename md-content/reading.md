@@ -17,6 +17,8 @@ I keep my library organised and convert, edit and build books within [Calibre](h
 
 ### 2021
 
+- The City & The City, China Miéville
+- Babel-17, Samuel R. Delany
 - Staying With The Trouble, Donna J. Haraway (rr)
 - Always Coming Home, Ursula K Le Guin
 - A River Dies of Thirst, Mahmoud Darwish
