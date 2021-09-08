@@ -135,5 +135,9 @@ Pages yellowed in the sunlight.
 Thinking about what's next.  
 Thinking about sticking to the plan.
 
+Life shifts, eddies and whorls.  
+A pause, noticed.  
+
+
 
 
