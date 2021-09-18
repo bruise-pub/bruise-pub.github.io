@@ -25,6 +25,9 @@ The three novels are:
 - [A Moiré](https://bruise.in/locality.html)
 - [Graffiti](https://bruise.in/locality.html)
 
+A collection of poems has also been published. This is released with the intention of receiving occasional updates.
+
+- [Poems Collected](https://bruise.in/poems.html)
 
 The research and documentation of different processes is documented on this page:
 

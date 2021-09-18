@@ -12,6 +12,7 @@
 - index
 - campfire
 - locality
+- poems
 - reading
 - resources
 - tooc
