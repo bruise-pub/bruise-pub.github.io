@@ -17,6 +17,7 @@ I keep my library organised and convert, edit and build books within [Calibre](h
 
 ### 2021
 
+- Stars in My Pocket Like Grains of Sand, Samuel R. Delany
 - Been Down So Long It Looks Like Up to Me, Richard Fariña
 - The Futurological Congress, Stanisław Lem
 - The Mushroom at the End of the World, Anna Lowenhaupt Tsing
@@ -59,4 +60,3 @@ I keep my library organised and convert, edit and build books within [Calibre](h
 - Satantango, Laszlo Krasznahorkai
 - New Dark Age, James Bridle
 - Underland, Robert Macfarlane
-
