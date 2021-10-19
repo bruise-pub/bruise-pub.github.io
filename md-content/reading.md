@@ -15,8 +15,13 @@ I read on a bunch of different screens, and am actively seeking a open source e-
 
 I keep my library organised and convert, edit and build books within [Calibre](https://calibre-ebook.com/).
 
+I've also been posting real-time reading updates via finger:
+
+> finger ghostglyph@happynetbox.com
+
 ### 2021
 
+- The Age of Surveillance Capitalism, Shoshana Zuboff
 - Stars in My Pocket Like Grains of Sand, Samuel R. Delany
 - Been Down So Long It Looks Like Up to Me, Richard Fariña
 - The Futurological Congress, Stanisław Lem
