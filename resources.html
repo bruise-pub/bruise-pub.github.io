@@ -5,16 +5,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    
-    <!-- 
+
+    <!--
     favicon generated using https://favicon.io/favicon-generator/
   -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-    
-    
+
+
     <title>resources</title>
     <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="style.css" />
@@ -22,85 +22,86 @@
   <body>
     <div class="wrapper">
       <div class="content">
-    
+
         <!-- md->html content here -->
 
-<pre><code>+-+-+-+-+-+-+
-|B|R|U|I|S|E|
-+-+-+-+-+-+-+</code></pre>
-<h1 id="resources">Resources</h1>
-<p>This space is a built with a mix of tools, processes and techniques. The way data is handled and manipulated is often different to the default modes of operation encouraged by the devices and software we might commonly use.</p>
-<p>I’m going to outline a few of the terms that I’ve found useful in unlocking this space. So, suitable for a person without much coding ability/experience but a willing to peer at code and copy/paste solutions from stackoverflow.</p>
-<p>The definitions will mostly be my own basic understanding, perhaps with a reason for its inclusion in this glossary, followed by a link to an actual definition or source.</p>
-<h1 id="glossary">Glossary</h1>
-<h3 id="dither">Dither</h3>
-<p>Dithering is a process that optimises an image, resulting in a smaller file size. It is often used as a low-energy aesthetic, quickly signalling an intent towards lower-weight files. I applied a dither process to the book cover images created for the epubs. The covers are often the largest part of the epub. By dithering the images the epub is kept to a very modest size.</p>
-<p><a href="https://ditherit.com/">Dither it</a></p>
-<p><a href="https://solar.lowtechmagazine.com/">Low Tech Magazine</a></p>
-<h3 id="fediverse">Fediverse</h3>
-<p>The fediverse is a decentralised platform, facilitating different kinds of communication and interaction around the internet. You might find a discussion group whose federated server you would like to join. You will then likely be able to speak within that server, as well as seeing and speaking to people from other groups whose server’s are federated with your group.</p>
-<p>I am in a group that uses Mastodon which is easy to start with, and works like Twitter.</p>
-<p><a href="https://en.wikipedia.org/wiki/Fediverse">Fediverse wikipedia entry</a></p>
-<h3 id="foss">FOSS</h3>
-<p>Free, Open-Source Software. There is a lot to unpack here.</p>
-<p>Whilst eploring this stuff, you’ll more than likely be engaging with the different communities building it. Often, open source projects allow independent developers to work together and collectively build the tools they need.</p>
-<p>The history of these spaces is important. It’s worth reading about, and thinking about how your use of these tools fits into that particular ecology.</p>
-<p><a href="http://telekommunisten.net/the-telekommunist-manifesto/">The Telekommunist Manifesto</a></p>
-<p><a href="https://www.boringcactus.com/2020/08/13/post-open-source.html">Post open-source</a></p>
-<p><a href="https://write.as/mokou/open-source-and-free-software-considered-harmful">Open source and free software considered harmful</a></p>
-<h3 id="gemini">Gemini</h3>
-<p>A different internet protocol.</p>
-<p><a href="https://gemini.circumlunar.space/">Project Gemini</a></p>
-<h3 id="git">Git</h3>
-<p>Git is a method of version control and development. It tracks changes made to files. Working with text files this has obvious benefits, which are increased when we start creating different versions of texts and compiling in different formats.</p>
-<p>You will probably need something to use Git with. Github is very popular, and is accessible to a beginner. However, many folks are critical of it - and the fact that you are essentially entrusting them with your code.</p>
-<p>As well as using some form of Git within your own projects, it is also essential to be familiar with in order to access different tools. The code for many projects you might like to use are hosted on Github or similar, so it is helpful to understand the processes of downloading, updating etc.</p>
-<p>Other options are Gitlab,Sourcehut or Mattermost.</p>
-<p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></p>
-<p><a href="https://docs.github.com/en/get-started">Get Started with Github</a></p>
-<p><a href="https://sanctum.geek.nz/why-not-github.html">Why not Github</a></p>
-<h3 id="markdown">Markdown</h3>
-<blockquote>
-<p>Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. -Wikipedia</p>
-</blockquote>
-<p>Markdown is used all over the place. It is reasonably accessible and quick to get to grips with.</p>
-<p>I mostly use Sublime Text to edit, which, with some tweaks seems quite comfortable.</p>
-<p>Markdown generally allows you to create a basic document, that will then be processed by something else to be displayed to a reader.</p>
-<p>It will take simple syntax, such as some hashtags, and turn them into html tags.</p>
-<p>There are different flavours of Markdown. This means that when writing Markdown for different places, such as Github, Glitch, Pandoc, Hugo - you might need to use slightly different syntax.</p>
-<p><a href="https://www.markdownguide.org/">Markdown Guide</a></p>
-<h3 id="static-site-generator">Static Site Generator</h3>
-<p>Static sites hold a website as a finished set of files. Much of the web doesn’t really work like this any more, as sites are built around interaction and the delivery of lots of different types of data.</p>
-<p>If you go to a library and take out a book, that’s the static site. If you go to a library and then assemble a book from pages scattered all over the library as well as writing a few pages, that’s a non-static site. (Flexing both the metaphor and terms there)</p>
-<p>This approach should increase the speed at which a website can load. It is also interesting as an approach to the web that reduces energy use and improves accessibility.</p>
-<p>There are many static site generators available. Glitch recently included one (11ty) in their starter pages, so that might be a good place to play with one.</p>
-<p>You might also be able to build your own, like <a href="https://github.com/ovrs/aplos">ovrs</a>. I’m working very slowly towards that. Since starting this site I’ve switched from using a website md-html converter, to controlling that step myself using Pandoc.</p>
-<h3 id="terminal-cli">Terminal (CLI)</h3>
-<p>Terminal is the Mac app that allows you to use the Command Line Interface. This is the little box that looks like most of the screens on Mr. Robot.</p>
-<p>It is an incredible way of interacting with your computer. However, I think I’ll write about that more, elsewhere.</p>
-<p>You will need some familiarity with your CLI to access and install different tools, or dependencies. Many tools are installed and updated directly within the CLI.</p>
-<p>You will probably have to check and see if you have package managers like NPM or Homebrew installed.</p>
-<p><a href="https://www.makeuseof.com/tag/beginners-guide-mac-terminal/">Beginners Mac Terminal Guide</a></p>
-<p><a href="http://contemporary-home-computing.org/turing-complete-user/">Turing Complete User</a></p>
-<h3 id="pandoc">Pandoc</h3>
-<p>Pandoc is a powerful command line tool, that allows you to convert documents into different formats. In my process it provided a simple way of getting the individual sections of the texts compiled together as a well-formatted epub.</p>
-<p><a href="https://pandoc.org/epub.html">Pandoc</a></p>
-<hr />
-<pre><code>+-+-+-+-+-+-+
-|B|R|U|I|S|E|
-+-+-+-+-+-+-+</code></pre>
-<p>v1.4</p>
-<h4 id="sitemap">sitemap</h4>
-<h5 id="bruise.in">bruise.in</h5>
-<p><a href="https://bruise.in">index</a> main bruise page<br />
-- <a href="https://bruise.in/locality.html">locality</a> text summaries<br />
-- <a href="https://bruise.in/poems.html">poems</a> - <a href="https://bruise.in/resources.html">resources</a> glossary of terms<br />
-- <a href="https://bruise.in/tooc.html">TOOC</a> outlining syllabus ideas<br />
-- <a href="https://bruise.in/campfire.html">campfire</a> loose notes on process<br />
-- <a href="https://bruise.in/reading.html">reading</a> reading list</p>
-<h5 id="gg.bruise.in">gg.bruise.in</h5>
-<p><a href="https://gg.bruise.in">index</a> bio page<br />
-- <a href="https://gg.bruise.in/table.html">table</a> print shop</p>
+        <pre><code>+-+-+-+-+-+-+
+        |B|R|U|I|S|E|
+        +-+-+-+-+-+-+</code></pre>
+        <h1 id="resources">Resources</h1>
+        <p>This space is a built with a mix of tools, processes and techniques. The way data is handled and manipulated is often different to the default modes of operation encouraged by the devices and software we might commonly use.</p>
+        <p>I’m going to outline a few of the terms that I’ve found useful in unlocking this space. So, suitable for a person without much coding ability/experience but a willing to peer at code and copy/paste solutions from stackoverflow.</p>
+        <p>The definitions will mostly be my own basic understanding, perhaps with a reason for its inclusion in this glossary, followed by a link to an actual definition or source.</p>
+        <h1 id="glossary">Glossary</h1>
+        <h3 id="dither">Dither</h3>
+        <p>Dithering is a process that optimises an image, resulting in a smaller file size. It is often used as a low-energy aesthetic, quickly signalling an intent towards lower-weight files. I applied a dither process to the book cover images created for the epubs. The covers are often the largest part of the epub. By dithering the images the epub is kept to a very modest size.</p>
+        <p><a href="https://ditherit.com/">Dither it</a></p>
+        <p><a href="https://solar.lowtechmagazine.com/">Low Tech Magazine</a></p>
+        <h3 id="fediverse">Fediverse</h3>
+        <p>The fediverse is a decentralised platform, facilitating different kinds of communication and interaction around the internet. You might find a discussion group whose federated server you would like to join. You will then likely be able to speak within that server, as well as seeing and speaking to people from other groups whose server’s are federated with your group.</p>
+        <p>I am in a group that uses Mastodon which is easy to start with, and works like Twitter.</p>
+        <p><a href="https://en.wikipedia.org/wiki/Fediverse">Fediverse wikipedia entry</a></p>
+        <h3 id="foss">FOSS</h3>
+        <p>Free, Open-Source Software. There is a lot to unpack here.</p>
+        <p>Whilst eploring this stuff, you’ll more than likely be engaging with the different communities building it. Often, open source projects allow independent developers to work together and collectively build the tools they need.</p>
+        <p>The history of these spaces is important. It’s worth reading about, and thinking about how your use of these tools fits into that particular ecology.</p>
+        <p><a href="http://telekommunisten.net/the-telekommunist-manifesto/">The Telekommunist Manifesto</a></p>
+        <p><a href="https://www.boringcactus.com/2020/08/13/post-open-source.html">Post open-source</a></p>
+        <p><a href="https://write.as/mokou/open-source-and-free-software-considered-harmful">Open source and free software considered harmful</a></p>
+        <h3 id="gemini">Gemini</h3>
+        <p>A different internet protocol.</p>
+        <p><a href="https://gemini.circumlunar.space/">Project Gemini</a></p>
+        <h3 id="git">Git</h3>
+        <p>Git is a method of version control and development. It tracks changes made to files. Working with text files this has obvious benefits, which are increased when we start creating different versions of texts and compiling in different formats.</p>
+        <p>You will probably need something to use Git with. Github is very popular, and is accessible to a beginner. However, many folks are critical of it - and the fact that you are essentially entrusting them with your code.</p>
+        <p>As well as using some form of Git within your own projects, it is also essential to be familiar with in order to access different tools. The code for many projects you might like to use are hosted on Github or similar, so it is helpful to understand the processes of downloading, updating etc.</p>
+        <p>Other options are Gitlab,Sourcehut or Mattermost.</p>
+        <p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></p>
+        <p><a href="https://docs.github.com/en/get-started">Get Started with Github</a></p>
+        <p><a href="https://sanctum.geek.nz/why-not-github.html">Why not Github</a></p>
+        <h3 id="markdown">Markdown</h3>
+        <blockquote>
+        <p>Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. -Wikipedia</p>
+        </blockquote>
+        <p>Markdown is used all over the place. It is reasonably accessible and quick to get to grips with.</p>
+        <p>I mostly use Sublime Text to edit, which, with some tweaks seems quite comfortable.</p>
+        <p>Markdown generally allows you to create a basic document, that will then be processed by something else to be displayed to a reader.</p>
+        <p>It will take simple syntax, such as some hashtags, and turn them into html tags.</p>
+        <p>There are different flavours of Markdown. This means that when writing Markdown for different places, such as Github, Glitch, Pandoc, Hugo - you might need to use slightly different syntax.</p>
+        <p><a href="https://www.markdownguide.org/">Markdown Guide</a></p>
+        <h3 id="static-site-generator">Static Site Generator</h3>
+        <p>Static sites hold a website as a finished set of files. Much of the web doesn’t really work like this any more, as sites are built around interaction and the delivery of lots of different types of data.</p>
+        <p>If you go to a library and take out a book, that’s the static site. If you go to a library and then assemble a book from pages scattered all over the library as well as writing a few pages, that’s a non-static site. (Flexing both the metaphor and terms there)</p>
+        <p>This approach should increase the speed at which a website can load. It is also interesting as an approach to the web that reduces energy use and improves accessibility.</p>
+        <p>There are many static site generators available. Glitch recently included one (11ty) in their starter pages, so that might be a good place to play with one.</p>
+        <p>You might also be able to build your own, like <a href="https://github.com/ovrs/aplos">ovrs</a>. I’m working very slowly towards that. Since starting this site I’ve switched from using a website md-html converter, to controlling that step myself using Pandoc.</p>
+        <h3 id="terminal-cli">Terminal (CLI)</h3>
+        <p>Terminal is the Mac app that allows you to use the Command Line Interface. This is the little box that looks like most of the screens on Mr. Robot.</p>
+        <p>It is an incredible way of interacting with your computer. However, I think I’ll write about that more, elsewhere.</p>
+        <p>You will need some familiarity with your CLI to access and install different tools, or dependencies. Many tools are installed and updated directly within the CLI.</p>
+        <p>You will probably have to check and see if you have package managers like NPM or Homebrew installed.</p>
+        <p><a href="https://www.makeuseof.com/tag/beginners-guide-mac-terminal/">Beginners Mac Terminal Guide</a></p>
+        <p><a href="http://contemporary-home-computing.org/turing-complete-user/">Turing Complete User</a></p>
+        <h3 id="pandoc">Pandoc</h3>
+        <p>Pandoc is a powerful command line tool, that allows you to convert documents into different formats. In my process it provided a simple way of getting the individual sections of the texts compiled together as a well-formatted epub.</p>
+        <p><a href="https://pandoc.org/epub.html">Pandoc</a></p>
+        <hr />
+        <pre><code>+-+-+-+-+-+-+
+        |B|R|U|I|S|E|
+        +-+-+-+-+-+-+</code></pre>
+        <p>v1.5</p>
+        <h4 id="sitemap">sitemap</h4>
+        <h5 id="bruise.in">bruise.in</h5>
+        <p><a href="https://bruise.in">index</a> main bruise page<br />
+        - <a href="https://bruise.in/locality.html">locality</a> text summaries<br />
+        - <a href="https://bruise.in/poems.html">poems</a> a changing collection<br />
+        - <a href="https://bruise.in/resources.html">resources</a> glossary of terms<br />
+        - <a href="https://bruise.in/tooc.html">TOOC</a> outlining syllabus ideas<br />
+        - <a href="https://bruise.in/campfire.html">campfire</a> loose notes on process<br />
+        - <a href="https://bruise.in/reading.html">reading</a> reading list</p>
+        <h5 id="gg.bruise.in">gg.bruise.in</h5>
+        <p><a href="https://gg.bruise.in">index</a> bio page<br />
+        - <a href="https://gg.bruise.in/table.html">table</a> print shop</p>
 
 
 
@@ -109,13 +110,12 @@
 
 
 
-        
-        
-        
+
+
+
         <!-- md->html content ends here -->
-        
+
       </div>
     </div>
   </body>
 </html>
-

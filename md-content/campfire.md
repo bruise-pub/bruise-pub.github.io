@@ -137,3 +137,16 @@ Thinking about sticking to the plan.
 
 Life shifts, eddies and whorls.  
 A pause, noticed.  
+
+Other libraries.  
+Other packets.  
+Other blobs.  
+
+The information is stored as a blob.  
+It congeals.  
+It bubbles.  
+
+I must have wandered away from the fire for a while.  
+Following the sounds of other voices in the trees.
+
+I've found some others now, out there/here, like me/you/us.

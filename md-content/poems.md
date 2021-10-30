@@ -17,4 +17,4 @@ The poems are often written as part of ideas for Dead Hand projects or diversion
 
 The current version is published as v0.9.
 
-
+An annotated version will be uploaded soon (November 2021) which was created for inclusion in the [Two Queens members show](https://2queens.com/exhibitions/two-queens-members-show-2021). I used the drawing tool I made ( [Flat Sketch](https://ghostglyph.itch.io/flat-sketch) ) to draw on the pages, marking them with doodles and words from an imagined protest.

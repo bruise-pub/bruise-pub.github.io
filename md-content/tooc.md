@@ -11,6 +11,8 @@ A Tiny Open Online Course built to explore digital and experimental publishing p
 
 The development of this has been greatly informed by the work of the [Pirate Care Syllabus](https://syllabus.pirate.care/).
 
+This is in psuedo-hibernation whilst I participate in the [Parallel Library Services](https://pls.simonbrowne.biz) project, which feels like it is examining similar things and has the great advantage of actually existing.
+
 ## howto
 
 I'm assembling this here, gradually.  
@@ -39,7 +41,7 @@ Readers
 
 live, open
 
-I'm intending to follow these modules starting Autumn 2021.
+I'm intending to follow these modules at some point.
 
 I'm open to suggestions of how a cohort can move through this together.  
 Shared etherpad docs?  
