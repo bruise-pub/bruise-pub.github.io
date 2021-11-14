@@ -23,6 +23,7 @@ I've also been posting real-time reading updates via finger:
 
 ### 2021
 
+- Afterlives, Abdulrazak Gurnah
 - Beautiful World, Where Are You, Sally Rooney
 - The Age of Surveillance Capitalism, Shoshana Zuboff
 - Stars in My Pocket Like Grains of Sand, Samuel R. Delany
