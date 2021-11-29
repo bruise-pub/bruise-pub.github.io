@@ -23,6 +23,8 @@ I've also been posting real-time reading updates via finger:
 
 ### 2021
 
+- The Dawn of Everything, David Graeber and David Wengrow
+- Tools for Conviviality, Ivan Illich
 - Afterlives, Abdulrazak Gurnah
 - Beautiful World, Where Are You, Sally Rooney
 - The Age of Surveillance Capitalism, Shoshana Zuboff
