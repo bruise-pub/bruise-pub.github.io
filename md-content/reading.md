@@ -23,6 +23,8 @@ I've also been posting real-time reading updates via finger:
 
 ### 2021
 
+- A Most Remarkable Creature: The Hidden Life and Epic Journey of the World's Smartest Birds of Prey, Jonathan Meiburg
+- Woman on the Edge of Time, Marge Piercy
 - The Dawn of Everything, David Graeber and David Wengrow
 - Tools for Conviviality, Ivan Illich
 - Afterlives, Abdulrazak Gurnah
